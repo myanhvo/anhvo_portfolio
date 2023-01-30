@@ -3,15 +3,15 @@ languageCode: en-us
 theme: raditian-free-hugo-theme-data-science
 params:
   footer:
-    copyright: © Matt Dancho. All rights reserved.
+    copyright: © Anh Vo. All rights reserved.
     site_logo:
       _2x: img/general/business-science-logo.png
       alt: Design & Code - Business Science
       x: img/general/business-science-logo.png
   googleAnalyticsID: ''
   logo:
-    text1: Matt
-    text2: Dancho
+    text1: Anh
+    text2: Vo
   plugins:
     css:
       - URL: css/main.css
@@ -32,8 +32,8 @@ params:
     - newsletter
 menu:
   footer:
-    - URL: '#about'
-      name: About
+    - URL: '#resume'
+      name: Resume
       weight: 2
     - URL: '#portfolio'
       name: Portfolio
@@ -42,8 +42,8 @@ menu:
       name: Contact
       weight: 4
   header:
-    - URL: '#about'
-      name: About
+    - URL: '#resume'
+      name: Resume
       weight: 2
     - URL: '#portfolio'
       name: Portfolio
