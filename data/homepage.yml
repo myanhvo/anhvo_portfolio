@@ -1,122 +1,96 @@
 head:
-  title: "Matt Dancho's Data Science Portfolio"
+  title: "Anh Vo's Portfolio"
 
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Matt Dancho."
-  subtitle: "Data Scientist"
-  description: "Matt is the founder of <a target='_blank' href='https://www.business-science.io/'>Business Science</a>, an online data science school that helps students become a data scientist in 6-months or less."
+  title: "Hello, I'm Anh Vo."
+  subtitle: "Data Science student"
+  description: "
+  I'm actively looking for internship roles in Data Science, Data Engineer, and Data Analyst. <br> <br>
+  I have strong foundation in Statistics (Predictive, Inferential, Regression Analysis) with a background in Machine Learning and Data Structures/Algorithms. 
+  My tech stack includes Python (NumPy, Pandas, Matplotlib), R (Shiny, ggplot2, dplyr), SAS (marcos),
+  Microsoft Office, OS (Windows, MacOS, Linux)"
   image:
-    x: "img/showcase/data-science.gif"
-    _2x: "img/showcase/data-science.gif"
+    x: "img/who-am-i/photo.jpeg"
+    _2x: "img/who-am-i/photo.jpeg"
   imageMobile:
-    x: "img/showcase/data-science.gif"
-    _2x: "img/showcase/data-science.gif"
+    x: "img/who-am-i/photo.jpeg"
+    _2x: "img/who-am-i/photo.jpeg"
 
   button:
-    icon: "icon-mail-fill"
-    btnText: "Contact Matt"
-    URL: "mailto:your-email@gmail.com"
+    icon: "icon-profile-fill"
+    btnText: "My Resume"
+    URL: "https://drive.google.com/file/d/1gavupNTU_SgSbi66mNWmuHirmaxfeqgh/view?usp=sharing"
 
-  socialLinks:
-    - icon: "linkedin"
-      URL: "https://www.linkedin.com"
-
-    - icon: "github"
-      URL: "https://github.com"
-
-    - icon: "twitter"
-      URL: "https://twitter.com"
-
-    - icon: "dribbble"
-      URL: "https://dribbble.com"
-
-    - icon: "behance"
-      URL: "https://www.behance.net"
-
-    - icon: "youtube"
-      URL: "https://www.youtube.com"
-
-    - icon: "instagram"
-      URL: "https://www.instagram.com"
-
-    - icon: "facebook"
-      URL: "https://www.facebook.com"
-
-    - icon: "codepen"
-      URL: "#"
-
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
 
 # about
 about:
-  enable: true
+  enable: false
   title: "Who am I?"
   content: 
     <p class="lead">
-    <strong>I love helping data scientists.</strong> My passion is training. But, when I am not making new courses
-    or building software, I enjoy vacationing with my family and friends. 
+    <strong>I have always had a passion for data science.</strong> It amazes me everytime how data can tell
+    numerous stories from different perspectives. 
     </p>
     <p class="lead">
-    <strong>My area of focus</strong> is applying data science to business. 
-    I create value for companies by understanding the financial
-    cost of problems and delivering a return-on-investment with my solutions. 
-    I enjoy learning, working with stakeholders, and making better decisions with data.
+    <strong>My expertise </strong> is applying data science to business. 
+    I communicate with clients about their current demands, 
+    then analyze and deliver the best solutions to maximize satisfaction. I push myself to improve from past experiences and take advantages of new opportunities.
     </p>
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://www.linkedin.com"
+    URL: "https://www.linkedin.com/in/anh-vo-thuy-my/"
   image:
-    x: "img/who-am-i/user-picture-2.jpg"
-    _2x: "img/who-am-i/user-picture-2.jpg"
+    x: "img/who-am-i/IMG_3447.jpg"
+    _2x: "img/who-am-i/IMG_3447.jpg"
 
 # experience
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop data science products to help businesses increase profitability and improve customer experience."
+  description: <pre style="border-width:4px; border-style:hidden hidden hidden solid; border-color:#FF0000"> <font size="+1.7"> <DFN>  Over 2+ years of experience working in data. <br>    My expertise is applying data science to <br>    business. I communicate with clients about the <br>    current demands, then analyze and deliver the <br>    best solutions to maximize satisfaction. <br> <br>    Please refer to my resume below for details. </DFN> </pre>
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/"
+    URL: "https://www.linkedin.com/in/anh-vo-thuy-my/"
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "#"
+    URL: "https://drive.google.com/file/d/1gavupNTU_SgSbi66mNWmuHirmaxfeqgh/view?usp=sharing"
 
   items:
-    - title: "Director of Product Engineering & Market Development"
-      company: "Bonney Forge"
-      duration: "Jan 2017 - Aug 2018"
-
-    - title: "Manager of Sales Engineering"
-      company: "Bonney Forge"
-      duration: "Mar 2014 - Jan 2017"
-
-    - title: "Manager of Product Engineering"
-      company: "Bonney Forge"
-      duration: "Nov 2011 - Mar 2014"
+    - title: "Statistical Consultant"
+      company: "Consulting Center - Miami University"
+      duration: "May 2022 - Present"
+      description:     <pre class="paragraph">    ➤ Provide feedback through statistical insights for 50 <br> clients’    
+             research papers to be published to journals. <br>    ➤ Utilize complex methods (Fisher’s Exact, Multinomial 
+             <br> Logistic Regression,etc) for analyses and visualizations <br>    ➤ Co-authorship for research study of the effectiveness <br>
+             of an MRML Course developed/administered by Envision Partnerships </pre>
+    
+    - title: "Bioinformatics Research Assistant"
+      company: "The Lee Lab"
+      duration: "May 2022 - January 2023"
+      description:     <pre class="paragraph">    ➤ Conduct genome-wide association studies research with Dr. <br> Donghyung Lee on the association between humans’ most common <br> genetic variation (SNPs) and COVID-19 symptoms’ level. <br>    ➤ Utilize multivariate regression and Dr. Lee’s 33KG reference <br> panel for 8M unmeasured SNPs imputation across 50M base pairs & <br> 22 gene regions</pre>
+    
+    - title: "Data Analyst - Student Master II"
+      company: "Discovery Center for Evaluation, Research, and Professional Learning"
+      duration: "February 2022 - June 2022"
+      description:     <pre class="paragraph">    ➤ Extracted and handle big data 95,000 from Miami University’s <br> surveys for courses’ evaluations and readjustments. <br>    ➤ Conducted student/faculty analysis based on questionnaires <br> with intensive use of R and Excel </pre>
 
 # education
 education:
   enable: true
   title: "Education"
   items:
-    - university: "Penn State University"
-      year: "2014-2015"
-      degree: "Master of Business Administration (MBA)"
-
-    - university: "University of Pittsburgh"
-      year: "2008-2010"
-      degree: "Master of Industrial Engineering"
-      
-    - university: "Penn State University"
-      year: "2002-2006"
-      degree: "Bachelor of Mechanical Engineering"
-
+    - university: "Miami University"
+      year: "2020-2024"
+      degree: "Bachelor of Science in Data Science and Statistics. <br> Minor in Computer Science"
+    - university: "Related Coursework"
+      degree: "Machine Learning (Python), Statistical Programming (SAS, R), Database System (SQL), Inferential Statistics (R),
+       Regression Analysis, Data Structures and Algorithms, Data Visualization (SAS, R, Shiny), 
+       Web App Programming (HTML, Javascript, AJAX)"
 
 
 # Client & Work
@@ -157,33 +131,61 @@ client_and_work:
       alt: "Ztos"
 
   works:
-    - title: "Sales Demand Forecast Application"
-      description: "This application helps Marketing & Sales identify trends in product demand. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+    - title: "Digest of Education Application"
+      description: "This application analyzes trends in education through the years in 50 US states. The app was made with RShiny. Full user guide can be found in the GitHub link in About tab "
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
-        URL: "https://business-science.shinyapps.io/sales_dashboard_demand_forecast/"
+        URL: "https://myanhvo.shinyapps.io/Digest-Of-Education-Statistics-App/"
       image:
-        x: "img/works/app_sales_demand_forecast.jpg"
-        _2x: "img/works/app_sales_demand_forecast.jpg"
+        x: "img/works/work1.png"
+        _2x: "img/works/work1.png"
       is_even: true
 
-    - title: "Product Price Recommendation"
-      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+    - title: "Spotify Predictions"
+      description: "This program was built to train and create a model that predicts Spotify popularity scores for 70K tracks using 
+      23 known predictor variables from raw RData. Full user guide on GitHub "
+      button:
+        icon: "icon-github-line"
+        btnText: "GitHub "
+        URL: "https://github.com/myanhvo/SpotifyPredictions"
+      image:
+        x: "img/works/work2.png"
+        _2x: "img/works/work2.png"
+      is_even: false
+      
+    - title: "Learning from compressed images"
+      description: "In this group project, we studied simplifying images onto the ability of a ML algorithm to pick up patterns.
+We compressed 10,000 images, performed simulations (SIR, Cascade, and Rumor models) to produce images based on adjacency matrix; outputs
+used reordering methods to highlight the correct emergence of patterns, and evaluated images after hyperparameter tuning.
+      
+      "
       button:
         icon: "icon-arrow-right"
-        btnText: "Launch Application"
-        URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
+        btnText: "Paper"
+        URL: "https://drive.google.com/file/u/1/d/1kYpwZber6qyilh17QVeAKu097JgXJQHT/view?usp=sharing"
       image:
-        x: "img/works/app_cannondale_price_prediction.jpg"
-        _2x: "img/works/app_cannondale_price_prediction.jpg"
-      is_even: false
+        x: "img/works/work3.png"
+        _2x: "img/works/work3.png"
+      is_even: true     
 
+    - title: "Movies Recommendation"
+      description: "This application takes 14 million movies tags and evaluates 27 million user ratings associated with 58,000
+movies, then suggests an input number of movies based on the input genre with users’ preferences (rating scores,
+year released). User guide on GitHub."
+      button:
+        icon: "icon-github-line"
+        btnText: "GitHub"
+        URL: "https://github.com/myanhvo/MoviesandVideos"
+      image:
+        x: "img/works/work4.png"
+        _2x: "img/works/work4.png"
+      is_even: false
     
 
 # testimonial
 testimonial:
-  enable: true
+  enable: false
   title: "Testimonials"
   items:
   
@@ -213,26 +215,26 @@ testimonial:
 # contact
 contact:
   enable: true
-  title: "Contact Matt"
+  title: "Contact Anh"
     
   image:
-    x: "img/who-am-i/user-picture-2.jpg"
-    _2x: "img/who-am-i/user-picture-2.jpg"
+    x: "img/who-am-i/project_resized.jpg"
+    _2x: "img/who-am-i/project_resized.jpg"
     
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
-    btnAction: 'mailto:your-email@gmail.com'
+    btnAction: 'mailto:vothuymyanh@gmail.com'
     
   phone:
     title: "Phone Number"
-    number: "--"
+    number: "513-372-5297"
   email:
     title: "Email"
-    email: '<a href="mailto:your-email@gmail.com">your-email@gmail.com</a>'
+    email: '<a href="mailto:vothuymyanh@gmail.com">vothuymyanh@gmail.com</a>'
   address:
     title: "Address"
-    address: "--"
+    address: "417 Wells Mill Dr, Oxford, OH 45056"
   
 
 # newsletter
