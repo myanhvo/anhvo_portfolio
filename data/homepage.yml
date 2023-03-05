@@ -23,34 +23,11 @@ showcase:
     btnText: "My Resume"
     URL: "https://drive.google.com/file/d/1-bn6lvUti6-Q4BYBWzgCfDsFBFHV9GX-/view?usp=sharing"
 
-
-# about
-about:
-  enable: false
-  title: "Who am I?"
-  content: 
-    <p class="lead">
-    <strong>I have always had a passion for data science.</strong> It amazes me everytime how data can tell
-    numerous stories from different perspectives. 
-    </p>
-    <p class="lead">
-    <strong>My expertise </strong> is applying data science to business. 
-    I communicate with clients about their current demands, 
-    then analyze and deliver the best solutions to maximize satisfaction. I push myself to improve from past experiences and take advantages of new opportunities.
-    </p>
-  button:
-    icon: "icon-smile-fill"
-    btnText: "About Me"
-    URL: "https://www.linkedin.com/in/anh-vo-thuy-my/"
-  image:
-    x: "img/who-am-i/IMG_3447.jpg"
-    _2x: "img/who-am-i/IMG_3447.jpg"
-
 # experience
 experience:
   enable: true
   title: "Experience"
-  description: <pre style="border-width:4px; border-style:hidden hidden hidden solid; border-color:#FF0000"> <font size="+1.7"> <DFN>  Over 2+ years of experience working in data. <br>    My expertise is applying data science to <br>    business. I communicate with clients about the <br>    current demands, then analyze and deliver the <br>    best solutions to maximize satisfaction. <br> <br>    Please refer to my resume below for details. </DFN> </pre>
+  description: <pre style="border-width:4px; border-style:hidden hidden hidden solid; border-color:#FF0000"> <font size="+1.7"> <DFN>  Over 2+ years of experience working with data. <br>    My expertise is applying data science to <br>    business. I communicate with clients about the <br>    current demands, then analyze and deliver the <br>    best solutions to maximize satisfaction. <br> <br>    Please refer to my resume below for details. </DFN> </pre>
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -97,38 +74,6 @@ education:
 client_and_work:
   title: "Portfolio"
   enable: true
-  
-  enable_clients: false
-  clients:
-    - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
-
-    - logo:
-        x: "img/clients/earth-2.png"
-        _2x: "img/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
-
-    - logo:
-        x: "img/clients/goldline.png"
-        _2x: "img/clients/goldline@2x.png"
-      alt: "Goldline"
-
-    - logo:
-        x: "img/clients/kanba.png"
-        _2x: "img/clients/kanba@2x.png"
-      alt: "Kanba"
-
-    - logo:
-        x: "img/clients/zoo-tv.png"
-        _2x: "img/clients/zoo-tv@2x.png"
-      alt: "Zoo"
-
-    - logo:
-        x: "img/clients/ztos.png"
-        _2x: "img/clients/ztos@2x.png"
-      alt: "Ztos"
 
   works:
     - title: "Digest of Education Application"
