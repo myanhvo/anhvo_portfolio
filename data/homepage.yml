@@ -9,8 +9,8 @@ showcase:
   description: "
   I'm actively looking for internship roles in Data Science, Data Engineer, and Data Analyst. <br> <br>
   I have a strong foundation in Statistics (Predictive, Inferential, Regression Analysis) with a background in Machine Learning and Data Structures/Algorithms. 
-  My tech stack includes Python (NumPy, Pandas, Matplotlib), R (Shiny, ggplot2, dplyr), SAS (macros),
-  Microsoft Office, OS (Windows, MacOS, Linux)"
+  My tech stack includes Python (NumPy, Pandas, Matplotlib), R (Shiny, ggplot2, dplyr), SAS (macros), Tableau, HTML/CSS, and
+  Microsoft Office"
   image:
     x: "img/who-am-i/photo.jpeg"
     _2x: "img/who-am-i/photo.jpeg"
@@ -21,7 +21,7 @@ showcase:
   button:
     icon: "icon-profile-fill"
     btnText: "My Resume"
-    URL: "https://drive.google.com/file/d/1gavupNTU_SgSbi66mNWmuHirmaxfeqgh/view?usp=sharing"
+    URL: "https://drive.google.com/file/d/1-bn6lvUti6-Q4BYBWzgCfDsFBFHV9GX-/view?usp=sharing"
 
 
 # about
@@ -67,7 +67,7 @@ experience:
       description:     <pre class="paragraph">    ➤ Provide feedback through statistical insights for 50 <br> clients’    
              research papers to be published to journals. <br>    ➤ Utilize complex methods (Fisher’s Exact, Multinomial 
              <br> Logistic Regression,etc) for analyses and visualizations <br>    ➤ Co-authorship for research study of the effectiveness <br>
-             of an MRML Course developed/administered by Envision Partnerships </pre>
+             of an MRML Course developed/administered by Envision Partnerships <br> and Ageism among Korean dental hygiene students.</pre>
     
     - title: "Bioinformatics Research Assistant"
       company: "The Lee Lab"
