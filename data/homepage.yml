@@ -10,7 +10,7 @@ showcase:
   I'm actively looking for internship roles in Data Science, Data Engineer, and Data Analyst. <br> <br>
   I have a strong foundation in Statistics (Predictive, Inferential, Regression Analysis) with a background in Machine Learning and Data Structures/Algorithms. 
   My tech stack includes Python (NumPy, Pandas, Matplotlib), R (Shiny, ggplot2, dplyr), SAS (macros), Tableau, HTML/CSS, and
-  Microsoft Office"
+  Microsoft Office."
   image:
     x: "img/who-am-i/photo.jpeg"
     _2x: "img/who-am-i/photo.jpeg"
@@ -232,6 +232,7 @@ contact:
   email:
     title: "Email"
     email: '<a href="mailto:vothuymyanh@gmail.com">vothuymyanh@gmail.com</a>'
+     email: '<a href="mailto:voat@miamioh.edu">voat@miamioh.edu</a>'
   address:
     title: "Address"
     address: "417 Wells Mill Dr, Oxford, OH 45056"
