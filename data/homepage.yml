@@ -66,7 +66,7 @@ experience:
       duration: "May 2022 - Present"
       description:     <pre class="paragraph">    ➤ Provide feedback through statistical insights for 50 <br> clients’    
              research papers to be published to journals. <br>    ➤ Utilize complex methods (Fisher’s Exact, Multinomial 
-             <br> Logistic Regression,etc) for analyses and visualizations <br>    ➤ Co-authorship for research study of the effectiveness <br>
+             <br> Logistic Regression,etc) for analyses and visualizations <br>    ➤ Co-authorship for research studies of the effectiveness <br>
              of an MRML Course developed/administered by Envision Partnerships <br> and Ageism among Korean dental hygiene students.</pre>
     
     - title: "Bioinformatics Research Assistant"
@@ -90,7 +90,7 @@ education:
     - university: "Related Coursework"
       degree: "Machine Learning (Python), Statistical Programming (SAS, R), Database System (SQL), Inferential Statistics (R),
        Regression Analysis, Data Structures and Algorithms, Data Visualization (SAS, R, Shiny), 
-       Web App Programming (HTML, Javascript, AJAX)"
+       Web App Programming (HTML, Javascript, AJAX)."
 
 
 # Client & Work
@@ -132,7 +132,7 @@ client_and_work:
 
   works:
     - title: "Digest of Education Application"
-      description: "This application analyzes trends in education through the years in 50 US states. The app was made with RShiny. Full user guide can be found in the GitHub link in About tab "
+      description: "This application analyzes trends in education through the years in 50 US states. The app was made with RShiny. Full user guide can be found in the GitHub."
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
@@ -144,7 +144,7 @@ client_and_work:
 
     - title: "Spotify Predictions"
       description: "This program was built to train and create a model that predicts Spotify popularity scores for 70K tracks using 
-      23 known predictor variables from raw RData. Full user guide on GitHub "
+      23 known predictor variables from raw RData. Full user guide on GitHub."
       button:
         icon: "icon-github-line"
         btnText: "GitHub "
@@ -181,36 +181,7 @@ year released). User guide on GitHub."
         x: "img/works/work4.png"
         _2x: "img/works/work4.png"
       is_even: false
-    
 
-# testimonial
-testimonial:
-  enable: false
-  title: "Testimonials"
-  items:
-  
-    - name: "Justin Kurland, PhD"
-      position: "Lead Data Scientist, Northwestern Mutual"
-      content: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
-      image:
-        x: "img/testimonials/justin.jpg"
-        _2x: "img/testimonials/justin.jpg"
-        
-    - name: "Chris Selig"
-      position: "Data Scientist"
-      content: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
-      image:
-        x: "img/testimonials/chris.jpg"
-        _2x: "img/testimonials/chris.jpg"
-
-    
-
-    - name: "Mohana Krishna Chittoor"
-      position: "Lead Data Scientist, Money View"
-      content: "After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want."
-      image:
-        x: "img/testimonials/mohana.jpg"
-        _2x: "img/testimonials/mohana.jpg"
 
 # contact
 contact:
@@ -232,7 +203,7 @@ contact:
   email:
     title: "Email"
     email: '<a href="mailto:vothuymyanh@gmail.com">vothuymyanh@gmail.com</a>'
-     email: '<a href="mailto:voat@miamioh.edu">voat@miamioh.edu</a>'
+    email: '<a href="mailto:voat@miamioh.edu">voat@miamioh.edu</a>'
   address:
     title: "Address"
     address: "417 Wells Mill Dr, Oxford, OH 45056"
