@@ -9,7 +9,7 @@ showcase:
   description: "
   I'm actively looking for internship roles in Data Science, Data Engineer, and Data Analyst. <br> <br>
   I have a strong foundation in Statistics (Predictive, Inferential, Regression Analysis) with a background in Machine Learning and Data Structures/Algorithms. 
-  My tech stack includes Python (NumPy, Pandas, Matplotlib), R (Shiny, ggplot2, dplyr), SAS (macros), Tableau, HTML/CSS, and
+  My tech stack includes Python (NumPy, Pandas, Matplotlib), R (Shiny, ggplot2, dplyr), SQL, SAS (macros), Tableau, HTML/CSS, and
   Microsoft Office."
   image:
     x: "img/who-am-i/photo.jpeg"
