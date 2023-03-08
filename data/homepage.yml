@@ -80,7 +80,7 @@ client_and_work:
       description: "2023 ANNSIM Conference publication, planned to be released soon on ACM and IEEE. In this group project, we studied simplifying images onto the ability of a ML algorithm to pick up patterns. We compressed 10,000 images, performed simulations (SIR, Cascade, and Rumor models) to produce images  based on adjacency matrix; outputs used reordering methods to highlight the correct emergence of patterns, and evaluated images after hyperparameter tuning."
       button:
         icon: "icon-arrow-right"
-        btnText: "Paper"
+        btnText: "Paper Draft"
         URL: "https://drive.google.com/file/u/1/d/1kYpwZber6qyilh17QVeAKu097JgXJQHT/view?usp=sharing"
       image:
         x: "img/works/work3.png"
