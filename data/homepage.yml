@@ -76,6 +76,19 @@ client_and_work:
   enable: true
 
   works:
+      - title: "Learning from compressed images (Accepted Publication)"
+      description: "2023 ANNSIM Conference publication, planned to be released soon on ACM and IEEE. In this group project, we studied simplifying images onto the ability of a ML algorithm to pick up patterns.
+We compressed 10,000 images, performed simulations (SIR, Cascade, and Rumor models) to produce images based on adjacency matrix; outputs
+used reordering methods to highlight the correct emergence of patterns, and evaluated images after hyperparameter tuning."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "In Progress Paper"
+        URL: "https://drive.google.com/file/u/1/d/1kYpwZber6qyilh17QVeAKu097JgXJQHT/view?usp=sharing"
+      image:
+        x: "img/works/work3.png"
+        _2x: "img/works/work3.png"
+      is_even: true     
+
     - title: "Digest of Education Application"
       description: "This application analyzes trends in education through the years in 50 US states. The app was made with RShiny. Full user guide can be found in the GitHub."
       button:
@@ -85,7 +98,7 @@ client_and_work:
       image:
         x: "img/works/work1.png"
         _2x: "img/works/work1.png"
-      is_even: true
+      is_even: false
 
     - title: "Spotify Predictions"
       description: "This program was built to train and create a model that predicts Spotify popularity scores for 70K tracks using 
@@ -97,23 +110,8 @@ client_and_work:
       image:
         x: "img/works/work2.png"
         _2x: "img/works/work2.png"
-      is_even: false
+      is_even: true
       
-    - title: "Learning from compressed images"
-      description: "In this group project, we studied simplifying images onto the ability of a ML algorithm to pick up patterns.
-We compressed 10,000 images, performed simulations (SIR, Cascade, and Rumor models) to produce images based on adjacency matrix; outputs
-used reordering methods to highlight the correct emergence of patterns, and evaluated images after hyperparameter tuning.
-      
-      "
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Paper"
-        URL: "https://drive.google.com/file/u/1/d/1kYpwZber6qyilh17QVeAKu097JgXJQHT/view?usp=sharing"
-      image:
-        x: "img/works/work3.png"
-        _2x: "img/works/work3.png"
-      is_even: true     
-
     - title: "Movies Recommendation"
       description: "This application takes 14 million movies tags and evaluates 27 million user ratings associated with 58,000
 movies, then suggests an input number of movies based on the input genre with users’ preferences (rating scores,
