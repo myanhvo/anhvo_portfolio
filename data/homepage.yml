@@ -38,6 +38,16 @@ experience:
     URL: "https://drive.google.com/file/d/1-bn6lvUti6-Q4BYBWzgCfDsFBFHV9GX-/view?usp=sharing"
 
   items:
+    - title: "Research Analyst"
+      company: "IRLG - Integrated Research Literacy Group"
+      duration: "June 2023 - Present"
+      description:     <pre class="paragraph">    ➤ Work on 5 research studies regarding healthcare (Eating Disorders, <br> Psychedelics, Mental Health, etc) under Duke University <br> in collaboration with the University of Cambridge.</pre>
+   
+   - title: "Data Visualization Intern"
+      company: "Miami University - IT, Business, and Infrastructure Services"
+      duration: "Mar 2023 - May 2023, Aug 2023 - "
+      description:     <pre class="paragraph">    ➤  Gather and analyze a broad range of internal/external current & historical data. <br> ➤ Use queries self-developed web pages, interactive graphics, <br> and data visualizations to provide management information <br> for planning and decision-making</pre>
+  
     - title: "Statistical Consultant"
       company: "Consulting Center - Miami University"
       duration: "May 2022 - Present"
@@ -48,12 +58,12 @@ experience:
     
     - title: "Bioinformatics Research Assistant"
       company: "The Lee Lab"
-      duration: "May 2022 - January 2023"
+      duration: "May 2022 - Jan 2023"
       description:     <pre class="paragraph">    ➤ Conduct genome-wide association studies research with Dr. <br> Donghyung Lee on the association between humans’ most common <br> genetic variation (SNPs) and COVID-19 symptoms’ level. <br>    ➤ Utilize multivariate regression and Dr. Lee’s 33KG reference <br> panel for 8M unmeasured SNPs imputation across 50M base pairs & <br> 22 gene regions</pre>
     
     - title: "Data Analyst - Student Master II"
       company: "Discovery Center for Evaluation, Research, and Professional Learning"
-      duration: "February 2022 - June 2022"
+      duration: "Feb 2022 - Jun 2022"
       description:     <pre class="paragraph">    ➤ Extracted and handle big data 95,000 from Miami University’s <br> surveys for courses’ evaluations and readjustments. <br>    ➤ Conducted student/faculty analysis based on questionnaires <br> with intensive use of R and Excel </pre>
 
 # education
