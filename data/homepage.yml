@@ -130,8 +130,8 @@ contact:
   title: "Contact Anh"
     
   image:
-    x: "img/who-am-i/project_resized.jpg"
-    _2x: "img/who-am-i/project_resized.jpg"
+    x: "img/who-am-i/linkedin_resize.png"
+    _2x: "img/who-am-i/linkedin_resize.png"
     
   button:
     icon: "icon-mail-fill"
