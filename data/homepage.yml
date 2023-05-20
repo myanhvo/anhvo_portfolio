@@ -115,7 +115,7 @@ forests, and neural networks) using cross-validation and hyperparameter tuning t
       is_even: false
 
     - title: "American Bar Association Client Analysis"
-      description: "This study analyzes data provided by the American Bar Association to identify trends and assess customer satisfaction in the legal services industry. The research explores various factors, including customer demographics, question categories, sentiment analysis of conversations, and the determinants of commonly asked questions. Machine learning techniques, such as elastic net, random forests, and neural networks, are employed to develop a robust classification model that predicts the most popular question categories based on relevant predictor variables. The findings underscore the significance of effective communication and expertise in enhancing client satisfaction and provide insights for improving law firm services."
+      description: "This study analyzes data provided by the American Bar Association to identify trends and assess customer satisfaction in the legal services industry. The research explores various factors, including customer demographics, question categories, sentiment analysis of conversations, and the determinants of commonly asked questions. Machine learning techniques, such as elastic net, random forests, and neural networks, are employed to develop a robust classification model that predicts the most popular question categories based on relevant predictor variables."
       button:
         icon: "icon-github-line"
         btnText: "GitHub"
