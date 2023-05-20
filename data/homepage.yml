@@ -98,8 +98,8 @@ client_and_work:
         btnText: "In-Progress Paper"
         URL: "https://drive.google.com/file/u/1/d/1kYpwZber6qyilh17QVeAKu097JgXJQHT/view?usp=sharing"
       image:
-        x: "img/works/compressed.JPG"
-        _2x: "img/works/compressed.JPG"
+        x: "img/works/photo-output.JPG"
+        _2x: "img/works/photo-output.JPG"
       is_even: true
 
     - title: "Hospital Readmission Prediction"
@@ -121,8 +121,8 @@ forests, and neural networks) using cross-validation and hyperparameter tuning t
         btnText: "GitHub"
         URL: "https://github.com/myanhvo/ABA_ClientAnalysis"
       image:
-        x: "img/works/Family.png"
-        _2x: "img/works/Family.png"
+        x: "img/works/court.v1.jpg"
+        _2x: "img/works/court.v1.jpg"
       is_even: true
 
     - title: "Digest of Education Application"
