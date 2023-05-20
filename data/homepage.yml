@@ -98,8 +98,8 @@ client_and_work:
         btnText: "In-Progress Paper"
         URL: "https://drive.google.com/file/u/1/d/1kYpwZber6qyilh17QVeAKu097JgXJQHT/view?usp=sharing"
       image:
-        x: "img/works/compressed.png"
-        _2x: "img/works/compressed.png"
+        x: "img/works/compressed.JPG"
+        _2x: "img/works/compressed.JPG"
       is_even: true
 
     - title: "Hospital Readmission Prediction"
@@ -143,8 +143,8 @@ forests, and neural networks) using cross-validation and hyperparameter tuning t
         btnText: "GitHub "
         URL: "https://github.com/myanhvo/SpotifyPredictions"
       image:
-        x: "img/works/spotify.webp"
-        _2x: "img/works/spotify.webp"
+        x: "img/works/wrapped.png"
+        _2x: "img/works/wrapped.png"
       is_even: true
       
     - title: "Movies Recommendation"
