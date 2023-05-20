@@ -7,7 +7,7 @@ showcase:
   title: "Hello, I'm Anh Vo."
   subtitle: "Data Science student"
   description: "
-  I'm actively looking for internship roles in Data Science, Data Engineer, and Data Analyst. <br> <br>
+  I'm actively looking for internship roles for the Fall 2023, in Data Science, Data Engineer, and Data Analyst. <br> <br>
   I have a strong foundation in Statistics (Predictive, Inferential, Regression Analysis) with a background in Machine Learning and Data Structures/Algorithms. 
   My tech stack includes Python (NumPy, Pandas, Matplotlib), R (Shiny, ggplot2, dplyr), SQL, SAS (macros), Tableau, HTML/CSS, and
   Microsoft Office."
@@ -38,10 +38,29 @@ experience:
     URL: "https://drive.google.com/file/d/1-bn6lvUti6-Q4BYBWzgCfDsFBFHV9GX-/view?usp=sharing"
 
   items:
+   
+    - title: "Analytics Intern"
+      company: "Westfield"
+      duration: "May 2023 - Present"
+      description:     <pre class="paragraph">    ➤ Utilize analytics tools to consolidate and analyze diverse <br> 
+      datasets from the contact center, billing, and claims sources. 
+      <br>    ➤ Perform statistical analysis to identify emerging 
+      <br> trends and patterns within the data and identify KPIs.
+      <br>    ➤ Employ data visualization tools (R and Tableau) 
+      <br> to create interactive dashboards, empowering 
+      <br> stakeholders to gain valuable insights at a glance. 
+      <br>    ➤ Streamline data extraction and transformation, 
+      <br> ensuring data integrity and efficiency in analysis. 
+      <br>    ➤ Collaborate with cross-functional teams to provide 
+      <br> actionable recommendations and insights based on analysis, 
+      <br> contributing to data-driven decision-making processes. </pre>
+  
     - title: "Research Analyst"
       company: "IRLG - Integrated Research Literacy Group"
       duration: "Jun 2023 - Present"
-      description:     <pre class="paragraph">    ➤ Work on 5 research studies regarding healthcare (Eating <br> Disorders, Psychedelics, Mental Health, etc) under Duke University <br> in collaboration with the University of Cambridge.</pre>
+      description:     <pre class="paragraph">    ➤ Work on 5 research studies regarding healthcare (Eating 
+      <br> Disorders, Psychedelics, Mental Health, etc) under Duke University 
+      <br> in collaboration with the University of Cambridge. </pre>
    
     - title: "Data Visualization Intern"
       company: "Miami University - IT, Business, and Infrastructure Services"
@@ -74,6 +93,7 @@ education:
     - university: "Miami University"
       year: "2020-2024"
       degree: "Bachelor of Science in Data Science and Statistics. <br> Minor in Computer Science"
+      
     - university: "Related Coursework"
       degree: "Machine Learning (Python), Statistical Programming (SAS, R), Database System (SQL), Inferential Statistics (R),
        Regression Analysis, Data Structures and Algorithms, Data Visualization (SAS, R, Shiny), 
@@ -86,15 +106,38 @@ client_and_work:
   enable: true
 
   works:
-    - title: "Learning from compressed images (Accepted Publication)"
+    - title: "Compressed Simulation Traces Verification with Machine Learning (Publication)"
       description: "2023 ANNSIM Conference publication, planned to be released soon on ACM and IEEE. In this group project, we studied simplifying images onto the ability of a ML algorithm to pick up patterns. We compressed 10,000 images, performed simulations (SIR, Cascade, and Rumor models) to produce images  based on adjacency matrix; outputs used reordering methods to highlight the correct emergence of patterns, and evaluated images after hyperparameter tuning."
       button:
         icon: "icon-arrow-right"
-        btnText: "Paper Draft"
+        btnText: "In-Progress Paper"
         URL: "https://drive.google.com/file/u/1/d/1kYpwZber6qyilh17QVeAKu097JgXJQHT/view?usp=sharing"
       image:
-        x: "img/works/work3.png"
-        _2x: "img/works/work3.png"
+        x: "img/works/compressed.png"
+        _2x: "img/works/compressed.png"
+      is_even: true
+
+    - title: "Hospital Readmission Prediction"
+      description: "I conducted data preprocessing, feature engineering, and evaluated multiple models (logistic, elastic nets, random
+forests, and neural networks) using cross-validation and hyperparameter tuning to predict hospitals readmission, then assessed the importance of variables to gain insights and develop strategies for reducing readmission rates."
+      button:
+        icon: "icon-github-line"
+        btnText: "GitHub"
+        URL: "https://github.com/myanhvo/Hospital_Readmission"
+      image:
+        x: "img/works/hospital.jpeg"
+        _2x: "img/works/hospital.jpeg"
+      is_even: false
+
+    - title: "American Bar Association Client Analysis"
+      description: "This study analyzes data provided by the American Bar Association to identify trends and assess customer satisfaction in the legal services industry. The research explores various factors, including customer demographics, question categories, sentiment analysis of conversations, and the determinants of commonly asked questions. Machine learning techniques, such as elastic net, random forests, and neural networks, are employed to develop a robust classification model that predicts the most popular question categories based on relevant predictor variables. The findings underscore the significance of effective communication and expertise in enhancing client satisfaction and provide insights for improving law firm services."
+      button:
+        icon: "icon-github-line"
+        btnText: "GitHub"
+        URL: "https://github.com/myanhvo/ABA_ClientAnalysis"
+      image:
+        x: "img/works/Family.png"
+        _2x: "img/works/Family.png"
       is_even: true
 
     - title: "Digest of Education Application"
@@ -109,15 +152,14 @@ client_and_work:
       is_even: false
 
     - title: "Spotify Predictions"
-      description: "This program was built to train and create a model that predicts Spotify popularity scores for 70K tracks using 
-      23 known predictor variables from raw RData. Full user guide on GitHub."
+      description: "This program was built to train and create a model that predicts Spotify popularity scores for 70K tracks using 23 known predictor variables from raw RData. Full user guide on GitHub."
       button:
         icon: "icon-github-line"
         btnText: "GitHub "
         URL: "https://github.com/myanhvo/SpotifyPredictions"
       image:
-        x: "img/works/work2.png"
-        _2x: "img/works/work2.png"
+        x: "img/works/spotify.webp"
+        _2x: "img/works/spotify.webp"
       is_even: true
       
     - title: "Movies Recommendation"
@@ -129,8 +171,8 @@ year released). User guide on GitHub."
         btnText: "GitHub"
         URL: "https://github.com/myanhvo/MoviesandVideos"
       image:
-        x: "img/works/work4.png"
-        _2x: "img/works/work4.png"
+        x: "img/works/movies.jpeg"
+        _2x: "img/works/movies.jpeg"
       is_even: false
 
 
@@ -155,6 +197,6 @@ contact:
     title: "Email"
     email: '<a href="mailto:vothuymyanh@gmail.com">vothuymyanh@gmail.com</a>'
   address:
-    title: "Address"
-    address: "417 Wells Mill Dr, Oxford, OH 45056"
+    title: "Business Email"
+    address: '<a href="mailto:anh.vo@irlg.org">anh.vo@irlg.org</a>'
 
