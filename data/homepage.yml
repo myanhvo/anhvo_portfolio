@@ -98,8 +98,8 @@ client_and_work:
         btnText: "In-Progress Paper"
         URL: "https://drive.google.com/file/u/1/d/1kYpwZber6qyilh17QVeAKu097JgXJQHT/view?usp=sharing"
       image:
-        x: "img/works/work3.png"
-        _2x: "img/works/work3.png"
+        x: "img/works/newcompression.jpg"
+        _2x: "img/works/newcompression.jpg"
       is_even: true
 
     - title: "Hospital Readmission Prediction"
