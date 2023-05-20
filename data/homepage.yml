@@ -156,8 +156,8 @@ year released). User guide on GitHub."
         btnText: "GitHub"
         URL: "https://github.com/myanhvo/MoviesandVideos"
       image:
-        x: "img/works/movies.jpeg"
-        _2x: "img/works/movies.jpeg"
+        x: "img/works/movies.v1.jpg"
+        _2x: "img/works/movies.v1.jpg"
       is_even: false
 
 
