@@ -38,17 +38,11 @@ experience:
     URL: "https://drive.google.com/file/d/1-bn6lvUti6-Q4BYBWzgCfDsFBFHV9GX-/view?usp=sharing"
 
   items:
-   
     - title: "Analytics Intern"
       company: "Westfield"
       duration: "May 2023 - Present"
-      description:     <pre class="paragraph">    ➤ Utilize analytics tools to consolidate and analyze diverse <br> datasets from the contact center, billing, and claims sources. <br>    ➤ Perform statistical analysis to identify emerging <br> trends and patterns within the data and identify KPIs.<br>    ➤ Employ data visualization tools (R and Tableau) <br> to create interactive dashboards, empowering <br> stakeholders to gain valuable insights at a glance. 
-      <br>    ➤ Streamline data extraction and transformation, 
-      <br> ensuring data integrity and efficiency in analysis. 
-      <br>    ➤ Collaborate with cross-functional teams to provide 
-      <br> actionable recommendations and insights based on analysis, 
-      <br> contributing to data-driven decision-making processes. </pre>
-  
+      description:     <pre class="paragraph">    ➤ Utilize analytics tools to consolidate and analyze diverse <br> datasets from the contact center, billing, and claims sources. <br>    ➤ Perform statistical analysis to identify emerging <br> trends and patterns within the data and identify KPIs.<br>    ➤ Employ data visualization tools (R and Tableau) <br> to create interactive dashboards, empowering <br> stakeholders to gain valuable insights at a glance. <br>    ➤ Streamline data extraction and transformation,  <br> ensuring data integrity and efficiency in analysis. <br>    ➤ Collaborate with cross-functional teams to provide <br> actionable recommendations and insights based on analysis, <br> contributing to data-driven decision-making processes. </pre>
+   
     - title: "Research Analyst"
       company: "IRLG - Integrated Research Literacy Group"
       duration: "Jun 2023 - Present"
