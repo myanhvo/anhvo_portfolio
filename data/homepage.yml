@@ -1,16 +1,14 @@
 head:
-  title: "Anh Vo's Portfolio"
+  title: "Mia Vo's Portfolio"
 
 # showcase
 showcase:
   enable: true
-  title: "Hello, I'm Anh Vo."
+  title: "Hello, I'm Mia Vo."
   subtitle: "Data Science student"
   description: "
   I'm actively looking for internship roles for the Fall 2023, in Data Science, Data Engineer, and Data Analyst. <br> <br>
-  I have a strong foundation in Statistics (Predictive, Inferential, Regression Analysis) with a background in Machine Learning and Data Structures/Algorithms. 
-  My tech stack includes Python (NumPy, Pandas, Matplotlib), R (Shiny, ggplot2, dplyr), SQL, SAS (macros), Tableau, HTML/CSS, and
-  Microsoft Office."
+ I am a Data Science and Statistics student at Miami University, with a minor in Computer Science. I am working as a Data Analytics Summer Intern at Westfield, where I conducted sentiment analysis on customer interactions and utilized analytics tools to analyze diverse data sources. I also work as a Research Analyst at the IRLG Lab, where I employed statistical modeling and programming skills to collect and interpret data for healthcare research studies. In addition to a strong background in data analysis, visualization, and machine learning techniques, I am also proficient in Python, R, SQL, Tableau, and other analytics/machine learning tools"
   image:
     x: "img/who-am-i/photo.jpeg"
     _2x: "img/who-am-i/photo.jpeg"
@@ -27,38 +25,36 @@ showcase:
 experience:
   enable: true
   title: "Experience"
-  description: <pre style="border-width:4px; border-style:hidden hidden hidden solid; border-color:#FF0000"> <font size="+1.7"> <DFN>  Over 2+ years of experience working with data. <br>    My expertise is applying data science to <br>    business. I communicate with clients about the <br>    current demands, then analyze and deliver the <br>    best solutions to maximize satisfaction. <br> <br>    Please refer to my resume below for details. </DFN> </pre>
+  description: <pre style="border-width:4px; border-style:hidden hidden hidden solid; border-color:#FF0000"> <font size="+1.7"> <DFN>  Over 3+ years of experience working with data. <br>    My expertise is applying data science to <br>    business. I communicate with clients about the <br>    current demands, then analyze and deliver the <br>    best solutions to maximize satisfaction. <br> <br>    Please refer to my resume below for details. </DFN> </pre>
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/in/anh-vo-thuy-my/"
+    URL: "https://www.linkedin.com/in/mia-vo/"
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "https://drive.google.com/file/d/1-bn6lvUti6-Q4BYBWzgCfDsFBFHV9GX-/view?usp=sharing"
+    URL: "https://drive.google.com/file/d/1NPT9gMkNO_9YHVhrsCI0ervYa_-1QqTL/view?usp=sharing"
 
   items:
     - title: "Analytics Intern"
       company: "Westfield"
       duration: "May 2023 - Present"
-      description:     <pre class="paragraph">    ➤ Utilize analytics tools to consolidate and analyze diverse <br> datasets from the contact center, billing, and claims sources. <br>    ➤ Perform statistical analysis to identify emerging <br> trends and patterns within the data and identify KPIs.<br>    ➤ Employ data visualization tools (R and Tableau) <br> to create interactive dashboards, empowering <br> stakeholders to gain valuable insights at a glance. <br>    ➤ Streamline data extraction and transformation,  <br> ensuring data integrity and efficiency in analysis. <br>    ➤ Collaborate with cross-functional teams to provide <br> actionable recommendations and insights based on analysis, <br> contributing to data-driven decision-making processes. </pre>
+      description:     <pre class="paragraph">    ➤	Conducted sentiment analysis on customer interactions, <br> identifying sentiment distribution and customer segmentation to enhance  <br> satisfaction and provide feedback for areas of improvement to leaders <br>    ➤ Leveraged analytics tools (Tableau and CXOne) to efficiently <br> consolidate data from diverse sources (billing, claims, etc.), <br> detecting possible revenue loss, cost drivers, <br> profitability trends, and operational inefficiencies for strategic planning <br>    ➤ Optimized business processes and improved responsiveness <br> by applying statistical tools (R and SQL) and <br> analysis techniques (diagnostic, time series, <br> explanatory data analysis, etc.) to uncover KPIs <br> and track agent’s performance </pre>
    
     - title: "Research Analyst"
       company: "IRLG - Integrated Research Literacy Group"
       duration: "Jun 2023 - Present"
-      description:     <pre class="paragraph">    ➤ Work on 5 research studies regarding healthcare (Eating <br> Disorders, Psychedelics, Mental Health, etc) under Duke University <br> in collaboration with the University of Cambridge. </pre>
+      description:     <pre class="paragraph">    ➤ Assisted in conducting and analyzing 5 research studies in <br> healthcare (Eating Disorders, Psychedelics, AI Companions, etc.) <br> under Duke University in collaboration with the <br> University of Cambridge <br>    ➤ Performed advanced statistical modeling to analyze & interpret data, <br> contributing to progression in healthcare research </pre>
    
     - title: "Data Visualization Intern"
       company: "Miami University - IT, Business, and Infrastructure Services"
       duration: "Mar 2023 - May 2023, Aug 2023 - "
-      description:     <pre class="paragraph">    ➤  Gather and analyze a broad range of internal and external <br> current & historical data. <br>    ➤ Use queries self-developed web pages, interactive graphics, <br> and data visualizations to provide management information for <br> planning and decision-making</pre>
+      description:     <pre class="paragraph">    ➤ Created visualizations of the support tickets (surveys, IT Service, etc.) <br>  data to track and analyze metrics for improvement <br>    ➤	Developed Tableau visualizations to gain insights into the  <br> university's fleet of devices, aiding in asset management <br>    ➤ Provided a service-oriented perspective on classroom usage <br> and effectiveness by analyzing learning spaces datasets </pre>
   
     - title: "Statistical Consultant"
       company: "Consulting Center - Miami University"
       duration: "May 2022 - Present"
-      description:     <pre class="paragraph">    ➤ Provide feedback through statistical insights for 50 <br> clients’    
-             research papers to be published to journals. <br>    ➤ Utilize complex methods (Fisher’s Exact, Multinomial <br> Logistic Regression,etc) for analyses and visualizations <br>    ➤ Co-authorship for research studies of the effectiveness <br>
-             of an MRML Course developed/administered by Envision Partnerships <br> and Ageism among Korean dental hygiene students.</pre>
+      description:     <pre class="paragraph">    ➤ Conducted analysis and provided feedback for over 50 clients’ <br> research papers intended for publication in professional <br> journals as per reviewers’/editors’ notes, incorporating complex <br> statistical methods (Fisher’s Exact, ANOVA, etc.)  <br>    ➤ Co-authored three research studies on the effectiveness <br> of a “Minimize Risk, Maximize Life” course administered <br> by Envision Partnerships, Ageism among Korean dental <br> hygiene students, and the effect of Postures among students </pre>
     
     - title: "Bioinformatics Research Assistant"
       company: "The Lee Lab"
@@ -68,7 +64,7 @@ experience:
     - title: "Data Analyst - Student Master II"
       company: "Discovery Center for Evaluation, Research, and Professional Learning"
       duration: "Feb 2022 - Jun 2022"
-      description:     <pre class="paragraph">    ➤ Extracted and handle big data 95,000 from Miami University’s <br> surveys for courses’ evaluations and readjustments. <br>    ➤ Conducted student/faculty analysis based on questionnaires <br> with intensive use of R and Excel </pre>
+      description:     <pre class="paragraph">    ➤ Extracted and handle big data 95,000 from Miami University’s <br> surveys for courses’ evaluations and readjustments. <br>    ➤ Conducted student/faculty analysis based on questionnaires <br> with intensive use of R and Excel, suggesting <br> targeted interventions </pre>
 
 # education
 education:
@@ -82,7 +78,7 @@ education:
     - university: "Related Coursework"
       degree: "Machine Learning (Python), Statistical Programming (SAS, R), Database System (SQL), Inferential Statistics (R),
        Regression Analysis, Data Structures and Algorithms, Data Visualization (SAS, R, Shiny), 
-       Web App Programming (HTML, Javascript, AJAX)."
+       Web App Programming (HTML, CSS, Javascript)."
 
 
 # Client & Work
@@ -92,7 +88,7 @@ client_and_work:
 
   works:
     - title: "Compressed Simulation Traces Verification with Machine Learning (Publication)"
-      description: "2023 ANNSIM Conference publication, planned to be released soon on ACM and IEEE. In this group project, we studied simplifying images onto the ability of a ML algorithm to pick up patterns. We compressed 10,000 images, performed simulations (SIR, Cascade, and Rumor models) to produce images  based on adjacency matrix; outputs used reordering methods to highlight the correct emergence of patterns, and evaluated images after hyperparameter tuning."
+      description: "Accepted paper at 2023 ANNSIM Conference, to be released on ACM and IEEE soon, presenting research on image simplification using ML algorithms and compression techniques (DCT, neural imaging, PIL, shrinking). My team conducted simulations (SIR, Cascade, Rumor) to generate images based on adjacency matrix, applying reordering methods to highlight pattern emergence (found crucial in maintaining performance levels despite image compression). We then evaluated images using DT, RF, and SVMs to assess the effectiveness of the applied techniques and algorithms. BEA reordering algorithm outperformed with accuracy (99.91%), precision (99.82%), recall (100%), and F-1 score (99.91%)."
       button:
         icon: "icon-arrow-right"
         btnText: "In-Progress Paper"
@@ -103,8 +99,7 @@ client_and_work:
       is_even: true
 
     - title: "Hospital Readmission Prediction"
-      description: "I conducted data preprocessing, feature engineering, and evaluated multiple models (logistic, elastic nets, random
-forests, and neural networks) using cross-validation and hyperparameter tuning to predict hospitals readmission, then assessed the importance of variables to gain insights and develop strategies for reducing readmission rates."
+      description: "Conducted data preprocessing, feature engineering, and evaluated multiple models (logistic, elastic nets, random forests, and neural networks) using cross-validation and hyperparameter tuning to predict hospitals readmission, then assessed the importance of variables to gain insights and develop strategies for reducing readmission rates."
       button:
         icon: "icon-github-line"
         btnText: "GitHub"
@@ -164,7 +159,7 @@ year released). User guide on GitHub."
 # contact
 contact:
   enable: true
-  title: "Contact Anh"
+  title: "Contact Mia"
     
   image:
     x: "img/who-am-i/linkedin_resize.png"
