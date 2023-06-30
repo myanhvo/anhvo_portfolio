@@ -36,19 +36,19 @@ experience:
     URL: "https://drive.google.com/file/d/1NPT9gMkNO_9YHVhrsCI0ervYa_-1QqTL/view?usp=sharing"
 
   items:
-    - title: "Analytics Intern"
+    - title: "Data Analytics Intern"
       company: "Westfield"
       duration: "May 2023 - Present"
-      description:     <pre class="paragraph">    ➤	Conducted sentiment analysis on customer interactions, <br> identifying sentiment distribution and customer segmentation to enhance  <br> satisfaction and provide feedback for areas of improvement to leaders <br>    ➤ Leveraged analytics tools (Tableau and CXOne) to efficiently <br> consolidate data from diverse sources (billing, claims, etc.), <br> detecting possible revenue loss, cost drivers, <br> profitability trends, and operational inefficiencies for strategic planning <br>    ➤ Optimized business processes and improved responsiveness <br> by applying statistical tools (R and SQL) and <br> analysis techniques (diagnostic, time series, <br> explanatory data analysis, etc.) to uncover KPIs <br> and track agent’s performance </pre>
+      description:     <pre class="paragraph">    ➤	Conducted sentiment analysis on customer interactions, identifying <br> sentiment distribution and customer segmentation to enhance satisfaction <br> and provide feedback for areas of improvement to leaders <br>    ➤     Leveraged analytics tools (Tableau and CXOne) to efficiently <br> consolidate data from diverse sources (billing, claims, etc.), <br> detecting possible revenue loss, cost drivers, <br> profitability trends, and operational inefficiencies for strategic planning <br>    ➤ Optimized business processes and improved responsiveness <br> by applying statistical tools (R and SQL) and <br> analysis techniques (diagnostic, time series, <br> explanatory data analysis, etc.) to uncover KPIs <br> and track agent’s performance </pre>
    
     - title: "Research Analyst"
-      company: "IRLG - Integrated Research Literacy Group"
+      company: "IRLG - Duke University"
       duration: "Jun 2023 - Present"
       description:     <pre class="paragraph">    ➤ Assisted in conducting and analyzing 5 research studies in <br> healthcare (Eating Disorders, Psychedelics, AI Companions, etc.) <br> under Duke University in collaboration with the <br> University of Cambridge <br>    ➤ Performed advanced statistical modeling to analyze & interpret data, <br> contributing to progression in healthcare research </pre>
    
     - title: "Data Visualization Intern"
       company: "Miami University - IT, Business, and Infrastructure Services"
-      duration: "Mar 2023 - May 2023, Aug 2023 - "
+      duration: "Mar 2023 - May 2023"
       description:     <pre class="paragraph">    ➤ Created visualizations of the support tickets (surveys, IT Service, etc.) <br>  data to track and analyze metrics for improvement <br>    ➤	Developed Tableau visualizations to gain insights into the  <br> university's fleet of devices, aiding in asset management <br>    ➤ Provided a service-oriented perspective on classroom usage <br> and effectiveness by analyzing learning spaces datasets </pre>
   
     - title: "Statistical Consultant"
@@ -88,7 +88,7 @@ client_and_work:
 
   works:
     - title: "Compressed Simulation Traces Verification with Machine Learning (Publication)"
-      description: "Accepted paper at 2023 ANNSIM Conference, to be released on ACM and IEEE soon, presenting research on image simplification using ML algorithms and compression techniques (DCT, neural imaging, PIL, shrinking). My team conducted simulations (SIR, Cascade, Rumor) to generate images based on adjacency matrix, applying reordering methods to highlight pattern emergence (found crucial in maintaining performance levels despite image compression). We then evaluated images using DT, RF, and SVMs to assess the effectiveness of the applied techniques and algorithms. BEA reordering algorithm outperformed with accuracy (99.91%), precision (99.82%), recall (100%), and F-1 score (99.91%)."
+      description: "Accepted paper at 2023 ANNSIM Conference, to be released on ACM and IEEE soon. My team presented research on image simplification using ML algorithms and compression techniques (DCT, neural imaging, PIL, shrinking). We conducted simulations (SIR, Cascade, Rumor) to generate images based on adjacency matrices, applying reordering methods to highlight pattern emergence (found crucial in maintaining performance levels despite image compression). We then evaluated images using DT, RF, and SVMs to assess the effectiveness of the applied techniques and algorithms. BEA reordering algorithm outperformed with accuracy (99.91%), precision (99.82%), recall (100%), and F-1 score (99.91%)."
       button:
         icon: "icon-arrow-right"
         btnText: "In-Progress Paper"
