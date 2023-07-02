@@ -51,7 +51,7 @@ experience:
       duration: "Mar 2023 - May 2023"
       description:     <pre class="paragraph">    ➤   Created visualizations of the support tickets (surveys, IT Service, <br> etc.) data to track and analyze metrics for improvement <br>    ➤   Developed Tableau visualizations to gain insights into the university's <br> fleet of devices, aiding in asset management <br>    ➤   Provided a service-oriented perspective on classroom usage and <br> effectiveness by analyzing learning spaces datasets </pre>
   
-    - title: "Statistical Consultant"
+    - title: "Statistical Analyst"
       company: "Consulting Center - Miami University"
       duration: "May 2022 - Present"
       description:     <pre class="paragraph">    ➤   Conducted analysis and provided feedback for over 50 clients’ research  <br> papers intended for publication in professional journals as <br> per reviewers’/editors’ notes, incorporating complex statistical <br> methods (Fisher’s Exact, ANOVA, etc.)  <br>    ➤   Co-authored three research studies on the effectiveness of a <br> “Minimize Risk, Maximize Life” course administered by Envision <br> Partnerships, Ageism among Korean dental hygiene students, and the <br> effect of Postures among students </pre>
@@ -61,7 +61,7 @@ experience:
       duration: "May 2022 - Jan 2023"
       description:     <pre class="paragraph">    ➤   Conduct genome-wide association studies research with Dr. Donghyung <br> Lee on the association between humans’ most common genetic variation (SNPs) <br> and COVID-19 symptoms’ level. <br>    ➤   Utilize multivariate regression and Dr. Lee’s 33KG reference panel <br> for 8M unmeasured SNPs imputation across 50M base pairs & 22 gene regions</pre>
     
-    - title: "Data Analyst - Student Master II"
+    - title: "Data Analyst"
       company: "Discovery Center for Evaluation, Research, and Professional Learning"
       duration: "Feb 2022 - Jun 2022"
       description:     <pre class="paragraph">    ➤   Extracted and handle big data 95,000 from Miami University’s <br> surveys for courses’ evaluations and readjustments. <br>    ➤   Conducted student/faculty analysis based on questionnaires <br> with intensive use of R and Excel, suggesting targeted interventions </pre>
