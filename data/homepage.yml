@@ -39,12 +39,12 @@ experience:
     - title: "Data Analytics Intern"
       company: "Westfield"
       duration: "May 2023 - Present"
-      description:     <pre class="paragraph">    ➤	Conducted sentiment analysis on customer interactions, identifying <br> sentiment distribution and customer segmentation to enhance satisfaction <br> and provide feedback for areas of improvement to leaders <br>    ➤   Leveraged analytics tools (Tableau and CXOne) to efficiently <br> consolidate data from diverse sources (billing, claims, etc.), detecting <br> possible revenue loss, cost drivers, profitability trends, and <br> operational inefficiencies for strategic planning <br>    ➤   Optimized business processes and improved underwriter responsiveness <br> by applying statistical tools (R and SQL) and analysis techniques (diagnostic, <br> time series, explanatory data analysis, etc.) to uncover KPIs and <br> track agent’s performance </pre>
+      description:     <pre class="paragraph">    ➤	Conducted sentiment analysis on customer interactions, identifying <br> sentiment distribution and customer segmentation to enhance satisfaction <br> and provide feedback for areas of improvement to leaders <br>    ➤   Leveraged analytics tools (Tableau and CXOne) to efficiently <br> consolidate data from diverse sources (billing, claims, etc.), detecting <br> possible revenue loss, cost drivers, profitability trends, and <br> operational inefficiencies for strategic planning <br>    ➤   Utilize statistical tools (R and SQL) and analysis techniques <br> (diagnostic, time series, explanatory data analysis, etc.) to track <br> agent performance, detect inefficiencies, and report KPIs for <br> managerial insights, enhancing team responsiveness and <br> optimizing business processes. </pre>
    
     - title: "Research Analyst"
       company: "IRLG - Duke University"
       duration: "Jun 2023 - Present"
-      description:     <pre class="paragraph">    ➤   Assisted in conducting and analyzing five research studies in <br> healthcare (Eating Disorders, Psychedelics, AI Companions, etc.) <br> under Duke University in collaboration with the <br> University of Cambridge <br>    ➤   Performed advanced statistical modeling to analyze & interpret <br> data, contributing to progression in healthcare research </pre>
+      description:     <pre class="paragraph">    ➤   Assisted in conducting advanced statistical modeling (Bayesian, Student T-tests, etc.) <br> and analyzing five research studies in healthcare <br> (Eating Disorders, Psychedelics, AI Companions, etc.) under Duke University <br> in collaboration with the University of Cambridge <br>    ➤   Performed advanced statistical modeling to analyze & interpret <br> data, contributing to progression in healthcare research </pre>
    
     - title: "Data Visualization Intern"
       company: "Miami University - IT, Business, and Infrastructure Services"
@@ -54,7 +54,7 @@ experience:
     - title: "Statistical Analyst"
       company: "Consulting Center - Miami University"
       duration: "May 2022 - Present"
-      description:     <pre class="paragraph">    ➤   Conducted analysis and provided feedback for over 50 clients’ research  <br> papers intended for publication in professional journals as <br> per reviewers’/editors’ notes, incorporating complex statistical <br> methods (Fisher’s Exact, ANOVA, etc.)  <br>    ➤   Co-authored three research studies on the effectiveness of a <br> “Minimize Risk, Maximize Life” course administered by Envision <br> Partnerships, Ageism among Korean dental hygiene students, and the <br> effect of Postures among students </pre>
+      description:     <pre class="paragraph">    ➤   Conducted analysis on diverse datasets (Neuronal Phases, Linguistics, <br> Chronic Cough Study, etc.) for over 50 clients’ research <br> papers and theses by processing data and applying <br> complex statistical methods (Fisher’s Exact, ANOVA, etc.). <br>    ➤   Co-authored three research studies on the effectiveness of a <br> “Minimize Risk, Maximize Life” course administered by Envision <br> Partnerships, Ageism among Korean dental hygiene students, and the <br> effect of Postures among students </pre>
     
     - title: "Bioinformatics Research Assistant"
       company: "The Lee Lab"
@@ -87,8 +87,8 @@ client_and_work:
   enable: true
 
   works:
-    - title: "Compressed Simulation Traces Verification with Machine Learning (Publication)"
-      description: "Accepted paper at 2023 ANNSIM Conference, to be released on ACM and IEEE soon. My team presented research on image simplification using ML algorithms and compression techniques (DCT, neural imaging, PIL, shrinking). We conducted simulations (SIR, Cascade, Rumor) to generate images based on adjacency matrices, applying reordering methods to highlight pattern emergence (found crucial in maintaining performance levels despite image compression). We then evaluated images using DT, RF, and SVMs to assess the effectiveness of the applied techniques and algorithms. BEA reordering algorithm outperformed with accuracy (99.91%), precision (99.82%), recall (100%), and F-1 score (99.91%)."
+    - title: "Publication: Preserving Simulation Insight While Removing Data"
+      description: "Publication on ACM and IEEE, presenting research on image simplification using Machine Learning algorithms and compression techniques (DCT, neural imaging, PIL, shrinking) at the 2023 ANNSIM Conference. We conducted simulations (SIR, Cascade, Rumor) to generate images based on adjacency matrices, applying reordering methods to highlight pattern emergence (found crucial in maintaining performance levels despite image compression). We then evaluated images using DT, RF, and SVMs to assess the effectiveness of the applied techniques and algorithms. BEA reordering algorithm outperformed with accuracy (99.91%), precision (99.82%), recall (100%), and F-1 score (99.91%)."
       button:
         icon: "icon-arrow-right"
         btnText: "In-Progress Paper"
