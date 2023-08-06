@@ -21,6 +21,12 @@ showcase:
     btnText: "My Resume"
     URL: "https://drive.google.com/file/d/1NPT9gMkNO_9YHVhrsCI0ervYa_-1QqTL/view?usp=sharing"
 
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/mia-vo/"
+
+    - icon: "github"
+      URL: "https://github.com/myanhvo"
 # experience
 experience:
   enable: true
