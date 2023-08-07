@@ -9,11 +9,11 @@ showcase:
   description: " <br> <br> <br> <br>
  I am a Data Science and Statistics student at Miami University, with a minor in Computer Science. I am working as a Data Analytics Summer Intern at Westfield, where I conducted sentiment analysis on customer interactions and utilized analytics tools to analyze diverse data sources. In addition to a strong background in data analysis, visualization, and machine learning techniques, I am also proficient in R, SQL, Python, and Tableau."
   image:
-    x: "img/who-am-i/photo.jpeg"
-    _2x: "img/who-am-i/photo.jpeg"
+    x: "img/who-am-i/coffee.jpeg"
+    _2x: "img/who-am-i/coffee.jpeg"
   imageMobile:
-    x: "img/who-am-i/photo.jpeg"
-    _2x: "img/who-am-i/photo.jpeg"
+    x: "img/who-am-i/coffee.jpeg"
+    _2x: "img/who-am-i/coffee.jpeg"
 
   button:
     icon: "icon-profile-fill"
