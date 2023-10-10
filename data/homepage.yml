@@ -6,7 +6,7 @@ showcase:
   enable: true
   title: "Hello, I'm Mia Vo."
   subtitle: "Data Science student"
-  description: "I'm passionate about harnessing the power of data to drive meaningful change. With a solid foundation in Data Science and Statistics, I've honed my analytical skills through diverse experiences. My journey has taken me from performing sentiment analyses for customer segmentation at Westfield, assisting with healthcare research studies at IRLG Lab - Duke University, to developing visualizations and statistical analyses for clinical trial feasibility assessments at Medpace. My goal: make waves in healthcare, pharma, and data innovation. Plus, I'm all in for data adventures in any field!"
+  description: "<br> <br> I'm passionate about harnessing the power of data to drive meaningful change. With a solid foundation in Data Science and Statistics, I've honed my analytical skills through diverse experiences. My journey has taken me from performing sentiment analyses for customer segmentation at Westfield, assisting with healthcare research studies at IRLG Lab - Duke University, to developing visualizations and statistical analyses for clinical trial feasibility assessments at Medpace. My goal: make waves in healthcare, pharma, and data innovation. Plus, I'm all in for data adventures in any field!"
   image:
     x: "img/who-am-i/coffee.jpg"
     _2x: "img/who-am-i/coffee.jpg"
