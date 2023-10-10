@@ -44,7 +44,7 @@ experience:
     - title: "Data Science Intern - Feasibility Informatics"
       company: "Medpace"
       duration: "Sep 2023 - Present"
-      description:     <pre class="paragraph">    ➤ Developed and implemented programming scripts in R and Snowflake SQL <br> for data management & streamlining processes. <br>    ➤   Conducted in-depth analysis of sponsors’ proposals <br> (enrollment modeling, feasibility analysis, sites & countries selection, etc.) <br> for proposal strategies, offering insights into site recommendations, <br> global study locations, & potential competitions. <br>    ➤   Collated data and developed visualizations using RShiny <br> and PowerBI, effectively translating feasibility research <br> results into compelling data visualizations for bid defense.
+      description:     <pre class="paragraph">    ➤ Developed and implemented programming scripts in R and Snowflake SQL <br> for data management & streamlining processes. <br>    ➤   Conducted in-depth analysis of sponsors’ proposals (enrollment <br> modeling, feasibility analysis, sites & countries selection, etc.) <br> for proposal strategies, offering insights into site recommendations, <br> global study locations, & potential competitions. <br>    ➤   Collated data and developed visualizations using RShiny <br> and PowerBI, effectively translating feasibility research <br> results into compelling data visualizations for bid defense.
   
     - title: "Data Analytics Intern"
       company: "Westfield"
