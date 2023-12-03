@@ -178,14 +178,14 @@ contact:
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
-    btnAction: 'mailto:vothuymyanh@gmail.com'
+    btnAction: 'mailto:miavo2268@gmail.com'
     
   phone:
     title: "Phone Number"
     number: "513-372-5297"
   email:
     title: "Email"
-    email: '<a href="mailto:vothuymyanh@gmail.com">vothuymyanh@gmail.com</a>'
+    email: '<a href="mailto:miavo2268@gmail.com">miavo2268@gmail.com</a>'
   address:
     title: "Business Email"
     address: '<a href="mailto:anh.vo@irlg.org">anh.vo@irlg.org</a>'
