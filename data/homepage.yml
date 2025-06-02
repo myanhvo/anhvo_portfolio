@@ -4,10 +4,11 @@ head:
 # showcase
 showcase:
   enable: true
-  title: " <br>
+  title: "
   Hello, I'm Mia Vo."
-  subtitle: "Data Science student"
-  description: " I'm passionate about using data to drive real-world impact. After earning my degree in Data Science and Statistics from Miami University, I've built my skills through hands-on experiences in research, industry, and higher education. My work has ranged from supporting research projects at Duke University's IRLG Lab to running statistical analyses for clinical trials at Medpace. Now, as a Data Analyst at the University of Toledo, I build and maintain Power BI reports and modernize legacy systems using Oracle SQL and Power BI tools. Whether it's education, healthcare, or something entirely different, I’m always excited to explore new challenges where data can make a difference. "
+  subtitle: "Data Analyst"
+  description: " <br> I'm passionate about using data to drive impact. After earning my degree in Data Science and Statistics from Miami University, I’ve gained hands-on experience across research, industry, and higher ed — from supporting research studies at Duke University's IRLG Lab to analyzing clinical trials data at Medpace. Now, as a Data Analyst at the University of Toledo, I build and maintain Power BI reports and modernize legacy systems using Oracle SQL. Whether it’s education, healthcare, or beyond, I’m always excited to explore new challenges where data can make a difference.
+ "
   image:
     x: "img/who-am-i/coffee.jpg"
     _2x: "img/who-am-i/coffee.jpg"
