@@ -19,7 +19,7 @@ showcase:
   button:
     icon: "icon-profile-fill"
     btnText: "My Resume"
-    URL: "https://drive.google.com/file/d/1NPT9gMkNO_9YHVhrsCI0ervYa_-1QqTL/view?usp=sharing"
+    URL: "https://drive.google.com/file/d/128OOfx2NVmHT0-ut1ITp0NoK_J5NbZpU/view?usp=drive_link"
 
   socialLinks:
     - icon: "linkedin"
@@ -39,7 +39,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "https://drive.google.com/file/d/1NPT9gMkNO_9YHVhrsCI0ervYa_-1QqTL/view?usp=sharing"
+    URL: "https://drive.google.com/file/d/128OOfx2NVmHT0-ut1ITp0NoK_J5NbZpU/view?usp=drive_link"
 
   items:
     - title: "Data Science Intern - Feasibility Informatics"
@@ -88,10 +88,23 @@ education:
       
     - university: "Related Coursework"
       degree: "Machine Learning (Python), Statistical Programming (SAS, R), Database System (SQL), Inferential Statistics (R),
-       Regression Analysis, Bayesian Statistics, Data Structures and Algorithms, Data Visualization (SAS, R, Shiny), 
+       Regression Analysis, Bayesian Statistics, Big Data, Data Structures and Algorithms, Data Visualization (SAS, R, Shiny), 
        Web App Programming (HTML, CSS, Javascript)."
 
-
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "Miami University"
+      year: "2020-2024"
+      degree: "Bachelor of Science in Data Science and Statistics. <br> Minor in Computer Science"
+      
+    - university: "Related Coursework"
+      degree: "Machine Learning (Python), Statistical Programming (SAS, R), Database System (SQL), Inferential Statistics (R),
+       Regression Analysis, Bayesian Statistics, Big Data, Data Structures and Algorithms, Data Visualization (SAS, R, Shiny), 
+       Web App Programming (HTML, CSS, Javascript)."
+       
 # Client & Work
 client_and_work:
   title: "Portfolio"
