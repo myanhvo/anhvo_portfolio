@@ -33,10 +33,14 @@
     </div>
     <div class="row platform-links">
       <div class="col-12">
-        {{ range .Site.Data.homepage.showcase.socialLinks }}
-        <a href="{{ .URL | absURL }}" target="_blank"
-          ><i class="icon-{{ .icon }}-line"></i
-        ></a>
+       {{ range .Site.Data.homepage.showcase.socialLinks }}
+           <a href="{{ .URL | absURL }}" target="_blank">
+              {{ if eq .icon "google-scholar" }}
+                <img src="/img/googlescholar.svg" alt="Google Scholar" style="height: 1.5em; vertical-align: middle;" />
+              {{ else }}
+                <i class="icon-{{ .icon }}-line"></i>
+              {{ end }}
+           </a>
         {{ end }}
       </div>
     </div>
