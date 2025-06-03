@@ -36,7 +36,7 @@
        {{ range .Site.Data.homepage.showcase.socialLinks }}
            <a href="{{ .URL | absURL }}" target="_blank">
               {{ if eq .icon "google-scholar" }}
-                <img src="/img/googlescholar.svg" alt="Google Scholar" style="height: 1.5em; vertical-align: middle;" />
+                <img src="/img/google-scholar.svg" alt="Google Scholar" style="height: 1.5em; vertical-align: middle;" />
               {{ else }}
                 <i class="icon-{{ .icon }}-line"></i>
               {{ end }}
