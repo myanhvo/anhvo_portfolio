@@ -27,6 +27,10 @@ showcase:
 
     - icon: "github"
       URL: "https://github.com/myanhvo"
+
+    - icon: "google-scholar"
+      URL: "https://scholar.google.com/citations?user=VtDnHHoAAAAJ&hl=en"
+      
 # experience
 experience:
   enable: true
