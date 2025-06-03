@@ -91,10 +91,10 @@ education:
        Regression Analysis, Bayesian Statistics, Big Data, Data Structures and Algorithms, Data Visualization (SAS, R, Shiny), 
        Web App Programming (HTML, CSS, Javascript)."
 
-# education
+# educationnew
 education:
   enable: true
-  title: "Education"
+  title: "EducationNew"
   items:
     - university: "Miami University"
       year: "2020-2024"
