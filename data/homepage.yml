@@ -90,20 +90,6 @@ education:
       degree: "Machine Learning (Python), Statistical Programming (SAS, R), Database System (SQL), Inferential Statistics (R),
        Regression Analysis, Bayesian Statistics, Big Data, Data Structures and Algorithms, Data Visualization (SAS, R, Shiny), 
        Web App Programming (HTML, CSS, Javascript)."
-
-# educationnew
-education:
-  enable: true
-  title: "EducationNew"
-  items:
-    - university: "Miami University"
-      year: "2020-2024"
-      degree: "Bachelor of Science in Data Science and Statistics. <br> Minor in Computer Science"
-      
-    - university: "Related Coursework"
-      degree: "Machine Learning (Python), Statistical Programming (SAS, R), Database System (SQL), Inferential Statistics (R),
-       Regression Analysis, Bayesian Statistics, Big Data, Data Structures and Algorithms, Data Visualization (SAS, R, Shiny), 
-       Web App Programming (HTML, CSS, Javascript)."
        
 # Client & Work
 client_and_work:
