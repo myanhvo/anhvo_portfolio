@@ -96,17 +96,6 @@ client_and_work:
   enable: true
 
   works:
-    - title: "Publication: Preserving Simulation Insight While Removing Data"
-      description: "Publication on ACM and IEEE, presenting research on image simplification using Machine Learning algorithms and compression techniques (DCT, neural imaging, PIL, shrinking) at the 2023 ANNSIM Conference. We conducted simulations (SIR, Cascade, Rumor) to generate images based on adjacency matrices, applying reordering methods to highlight pattern emergence (found crucial in maintaining performance levels despite image compression). We then evaluated images using DT, RF, and SVMs to assess the effectiveness of the applied techniques and algorithms. BEA reordering algorithm outperformed with accuracy (99.91%), precision (99.82%), recall (100%), and F-1 score (99.91%)."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Paper"
-        URL: "https://ieeexplore.ieee.org/abstract/document/10155370"
-      image:
-        x: "img/works/newcompression.jpg"
-        _2x: "img/works/newcompression.jpg"
-      is_even: true
-
     - title: "Hospital Readmission Prediction"
       description: "Conducted data preprocessing, feature engineering, and evaluated multiple models (logistic, elastic nets, random forests, and neural networks) using cross-validation and hyperparameter tuning to predict hospitals readmission, then assessed the importance of variables to gain insights and develop strategies for reducing readmission rates."
       button:
@@ -164,6 +153,14 @@ year released). User guide on GitHub."
         _2x: "img/works/movies.v1.jpg"
       is_even: false
 
+# Testimonials
+testimonial:
+  enable: true
+  title: "Publication"
+  items:
+    - content: "Preserving simulation insight while removing data: verification of compressed simulation traces via machine learning"
+    - content: "ASSOCIATION BETWEEN ANXIETY ABOUT AGING AND AGEISM TOWARD OLDER ADULTS AMONG KOREAN DENTAL HYGIENE WORKFORCE"
+   
 
 # contact
 contact:
