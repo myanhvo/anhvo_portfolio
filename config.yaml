@@ -24,10 +24,10 @@ params:
   sections:
     - showcase
     - about
+    - education
     - experience
     - client-and-work
     - testimonial
-    - education
     - contact
     - newsletter
 menu:
