@@ -75,9 +75,9 @@ education:
       year: "2020-2024"
       degree: "Bachelor of Science in Data Science and Statistics. <br> Minor in Computer Science"
       
-    - university: "<br>Related Coursework"
+    - university: "Related Coursework"
       year: "   <br>    "
-      degree: "Statistical Programming (SAS, R) <br>Database System/Big Data (SQL, Databricks, Snowflake, MongoDB, Oracle) <br>Data Visualization (PowerBI, SAS, R, rShiny) <br>Data Structures and Algorithms (Python, Java) <br>Statistical Techniques: Inferential, Regression, Experimental Design, Multivariate Methods, etc."
+      degree: "Statistical Programming & Methods (SAS, R): Inferential, Regression, Experimental Design, Multivariate Methods. <br>Database System/Big Data (SQL, Databricks, Oracle) <br>Data Visualization (PowerBI, SAS, R, rShiny) <br>Data Structures and Algorithms (Python, Java)"
        
 # Client & Work
 client_and_work:
