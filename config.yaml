@@ -41,6 +41,9 @@ menu:
     - URL: '#contact'
       name: Contact
       weight: 4
+    - URL: '#publication'
+      name: Publications
+      weight: 5
   header:
     - URL: '#experience'
       name: Resume
@@ -51,3 +54,6 @@ menu:
     - URL: '#contact'
       name: Contact
       weight: 4
+    - URL: '#publication'
+      name: Publications
+      weight: 5
