@@ -25,9 +25,9 @@ params:
     - showcase
     - about
     - client-and-work
+    - testimonial
     - experience
     - education
-    - testimonial
     - contact
     - newsletter
 menu:
