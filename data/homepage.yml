@@ -158,8 +158,11 @@ testimonial:
   enable: true
   title: "Publication"
   items:
-    - content: "Preserving simulation insight while removing data: verification of compressed simulation traces via machine learning"
-    - content: "ASSOCIATION BETWEEN ANXIETY ABOUT AGING AND AGEISM TOWARD OLDER ADULTS AMONG KOREAN DENTAL HYGIENE WORKFORCE"
+    - name: "Role: 3rd author / Statistical Analyst"
+      content: "Kwon, J. H., Hughes, M., <strong>Vo, A.</strong>, Park, J.-R., Kim, D. R., & Kang, K.-H. (2025). Are you anxious about aging? Unpacking the roots of ageism among Korean dental hygiene students. Educational Gerontology, 1–11. https://doi.org/10.1080/03601277.2025.2500724"
+    - name: "Role: Author / Research Analyst"
+      content: "Orwig, W., Bellaiche, L., Spooner, S., <strong>Vo, A.</strong>, Baig, Z., Ragnhildstveit, A., Schacter, D. L., Barr, N., & Seli, P. (2024). Using AI to generate visual art: Do individual differences in creativity predict AI-assisted art quality? Creativity Research Journal, 1–12. https://doi.org/10.1080/10400419.2024.2440691"
+
    
 
 # contact
