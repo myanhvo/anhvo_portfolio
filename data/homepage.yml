@@ -144,7 +144,7 @@ year released). User guide on GitHub."
 # Testimonials
 testimonial:
   enable: true
-  title: "Publication"
+  title: "Publications"
   items:
     - name: "Role: Statistical Analyst / 3rd Author"
       content: "Kwon, J. H., Hughes, M., <strong>Vo, A.</strong>, Park, J.-R., Kim, D. R., & Kang, K.-H. (2025). Are you anxious about aging? Unpacking the roots of ageism among Korean dental hygiene students. Educational Gerontology, 1–11. https://doi.org/10.1080/03601277.2025.2500724"
