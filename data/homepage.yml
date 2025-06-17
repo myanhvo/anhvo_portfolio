@@ -158,13 +158,24 @@ testimonial:
   enable: true
   title: "Publication"
   items:
-    - name: "Role: 3rd author / Statistical Analyst"
+    - name: "Role: Statistical Analyst / 3rd Author"
       content: "Kwon, J. H., Hughes, M., <strong>Vo, A.</strong>, Park, J.-R., Kim, D. R., & Kang, K.-H. (2025). Are you anxious about aging? Unpacking the roots of ageism among Korean dental hygiene students. Educational Gerontology, 1–11. https://doi.org/10.1080/03601277.2025.2500724"
       link: "https://www.tandfonline.com/doi/abs/10.1080/03601277.2025.2500724"
-    - name: "Role: Author / Research Analyst"
+    - name: "Role: Research Analyst / Author"
       content: "Orwig, W., Bellaiche, L., Spooner, S., <strong>Vo, A.</strong>, Baig, Z., Ragnhildstveit, A., Schacter, D. L., Barr, N., & Seli, P. (2024). Using AI to generate visual art: Do individual differences in creativity predict AI-assisted art quality? Creativity Research Journal, 1–12. https://doi.org/10.1080/10400419.2024.2440691"
       link: "https://www.tandfonline.com/doi/full/10.1080/10400419.2024.2440691"
-
+    - name: "Role: Statistical Analyst / 3rd Author"
+      content: "Kwon, J., Hughes, M., & <strong>Vo, A.</strong> (2023). Association between anxiety about aging and ageism toward older adults among Korean dental hygiene workforce. Innovation in Aging, 7(Supplement_1), 835–836. https://doi.org/10.1093/geroni/igad104.2694"
+      link: "https://academic.oup.com/innovateage/article/7/Supplement_1/835/7490726?login=false"
+    - name: "Role: Author"
+      content: "Nguyen, M., Vu, D., <strong>Vo, A.</strong>, Liang, L., and Giabbanelli, P. J. (2023) Preserving Simulation Insight While Removing Data: Verification of Compressed Simulation Traces via Machine Learning Annual Modeling and Simulation Conference (ANNSIM), Hamilton, ON, Canada, 2023, pp. 345-356"
+      link: "https://www.computer.org/csdl/proceedings-article/annsim/2023/10155370/1OidlCn8Hle"
+    - name: "Role: Statistical Analyst"
+      content: "Gnanabharathi, B., Fahoum, S.-R. H., & Blitz, D. M. (2024, June 27). Neuropeptide modulation enables biphasic internetwork coordination via a dual-network neuron. eNeuro. https://pmc.ncbi.nlm.nih.gov/articles/PMC11211724/"
+      link: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11211724/"
+    - name: "Role: Statistical Analyst"
+      content: "Simonsen, R. (2023). Exploring similarities in 'seem' constructions with experiencers in English and Spanish. Language, 99(1), e18–e34."
+      link: "https://www.semanticscholar.org/paper/RESEARCH-REPORT-Exploring-similarities-in-%E2%80%98seem%E2%80%99-in-Imonsen-Hughes/14a1b580f0fdd356b8e3c2eb1221945ffaca1704"
    
 
 # contact
