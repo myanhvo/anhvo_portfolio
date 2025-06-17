@@ -73,7 +73,7 @@ education:
   items:
     - university: "Miami University"
       year: "2020-2024"
-      degree: "Bachelor of Science in Data Science and Statistics. <br> Minor in Computer Science"
+      degree: "Bachelor of Science in <strong>Data Science and Statistics</strong> <br> Minor in Computer Science"
       
     - university: "Related Coursework"
       year: "   <br>    "
