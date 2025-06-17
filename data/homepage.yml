@@ -76,7 +76,7 @@ education:
       degree: "Bachelor of Science in Data Science and Statistics. <br> Minor in Computer Science"
       
     - university: "Related Coursework"
-      degree: "Machine Learning (Python) <br>Statistical Programming (SAS, R) <br>Database System/Big Data (SQL, Databricks, Snowflake, MongoDB, Oracle) <br>Data Visualization (PowerBI, SAS, R, rShiny) <br>Data Structures and Algorithms <br>Statistical Techniques: Inferential Statistics, Regression, Time Series, Experimental Design, and Multivariate Methods <br>Web App Programming (HTML, CSS, Javascript)"
+      degree: "Statistical Programming (SAS, R) <br>Database System/Big Data (SQL, Databricks, Snowflake, MongoDB, Oracle) <br>Data Visualization (PowerBI, SAS, R, rShiny) <br>Data Structures and Algorithms (Python, Java) <br>Statistical Techniques: Inferential, Regression, Experimental Design, Multivariate Methods, etc."
        
 # Client & Work
 client_and_work:
