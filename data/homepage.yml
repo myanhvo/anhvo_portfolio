@@ -51,14 +51,14 @@ experience:
       duration: "Jun 2024 - Present"
       description:     <pre class="paragraph">    ➤   Developed 50+ Power BI reports to monitor financial transactions & <br> budgets, students’ registrations and performance, etc. <br>    ➤   Automated university’s reporting pipelines and migrated 40+ legacy <br> SAP Crystal Reports using Oracle SQL and Microsoft PowerBI <br> Report Builder, eliminating manual SQL queries and data processing. <br>    ➤   Rebuilt a system of PowerBI reports for Health Science College to <br> automate input filtering, eliminating manual .NET coding requirements. </pre>
     
-    - title: "Data Science Intern - Feasibility Informatics"
+    - title: "Data Science Intern"
       company: "Medpace"
       duration: "Sep 2023 - Jan 2024"
       description:     <pre class="paragraph">    ➤   Developed advanced SQL queries in Snowflake & integrated queries <br> into PowerBI dashboards to automate analysis of enrollment <br> patterns, streamlining process on studies’ performance deliverables. <br>    ➤   Developed interactive visuals in R or RShiny for analysis of <br> sponsors’ proposals, offering insights for proposal strategies. <br>    ➤   Designed and executed a PowerBI app through intensive ETL process <br> using Snowflake SQL for bid defenses. <br>    ➤   Conducted in-depth analysis of sponsors’ proposals (enrollment <br> modeling, feasibility analysis, sites & countries selection, etc.) <br> for proposal strategies, offering insights into site recommendations, <br> global study locations, & potential competitions. 
     - title: "Data Analytics Intern"
       company: "Westfield"
       duration: "May 2023 - Aug 2023, Jan 2024 - May 2024"
-      description:     <pre class="paragraph">    ➤   Conducted sentiment analysis on customer interactions, identifying <br> sentiment distribution & customer segmentation to enhance satisfaction <br>    ➤   Consolidated data from billing, claims, etc., using Tableau <br> to detect revenue loss, cost drivers, & profitability trends.  <br>    ➤   Utilized R, SQL and analysis techniques (diagnostic, time series, etc.) <br> to track agent performance & report KPIs, enhancingteam <br> responsiveness and optimizing business processes by 20%. </pre>
+      description:     <pre class="paragraph">    ➤   Conducted sentiment analysis on customer interactions, identifying <br> sentiment distribution & customer segmentation to enhance satisfaction <br>    ➤   Consolidated data from billing, claims, etc., using Tableau <br> to detect revenue loss, cost drivers, & profitability trends.  <br>    ➤   Utilized R, SQL and analysis techniques (diagnostic, time series, <br> etc.) to track agent performance & report KPIs, enhancing team <br> responsiveness and optimizing business processes by 20%. </pre>
  
     - title: "Statistical Analyst"
       company: "Consulting Center - Miami University"
