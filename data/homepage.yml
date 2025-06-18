@@ -35,7 +35,7 @@ showcase:
 experience:
   enable: true
   title: "Experience"
-  description: <pre style="border-width:4px; border-style:hidden hidden hidden solid; border-color:#FF0000"> <font size="+1.5"> <DFN>  Over 3+ years of experience working with data. <br>    My expertise is applying data science to various <br>    fields, including healthcare and education. I collaborate <br>    with clients to understand their specific needs, <br>    then conduct in-depth analysis and build visuals <br>    to deliver effective solutions that meet their <br>    requirements and bring about positive changes. <br> <br>    Please refer to my resume below for details. </DFN> </pre>
+  description: <pre style="border-width:4px; border-style:hidden hidden hidden solid; border-color:#FF0000"> <font size="+1.5"> <DFN>  Over 3+ years of experience working with data. <br>    My expertise is applying data science to <br> various fields, including healthcare and <br> education. I collaborate with clients <br> to understand their specific needs, <br>    then conduct in-depth analysis and build visuals <br>    to deliver effective solutions that meet their <br>    requirements and bring about positive changes. <br> <br>    Please refer to my resume below for details. </DFN> </pre>
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
