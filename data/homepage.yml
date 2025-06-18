@@ -46,14 +46,19 @@ experience:
     URL: "https://drive.google.com/file/d/128OOfx2NVmHT0-ut1ITp0NoK_J5NbZpU/view?usp=drive_link"
 
   items:
+    - title: "Data Analyst"
+      company: "The University of Toledo"
+      duration: "Jun 2024 - Present"
+      description:     <pre class="paragraph">    ➤   Developed 50+ Power BI reports to monitor financial transactions & <br> budgets, students’ registrations and performance, etc. <br>    ➤   Automated university’s reporting pipelines and migrated 40+ legacy <br> SAP Crystal Reports using Oracle SQL and Microsoft PowerBI <br> Report Builder, eliminating manual SQL queries and data processing. <br>    ➤   Rebuilt a system of PowerBI reports for Health Science College to automate <br> user-based input filtering, eliminating the need for manual .NET coding.</pre>
+    
     - title: "Data Science Intern - Feasibility Informatics"
       company: "Medpace"
-      duration: "Sep 2023 - Present"
+      duration: "Sep 2023 - Jan 2024"
       description:     <pre class="paragraph">    ➤ Developed and implemented programming scripts in R and Snowflake SQL <br> for data management & streamlining processes. <br>    ➤   Conducted in-depth analysis of sponsors’ proposals (enrollment <br> modeling, feasibility analysis, sites & countries selection, etc.) <br> for proposal strategies, offering insights into site recommendations, <br> global study locations, & potential competitions. <br>    ➤   Collated data and developed visualizations using RShiny <br> and PowerBI, effectively translating feasibility research <br> results into compelling data visualizations for bid defense.
   
     - title: "Data Analytics Intern"
       company: "Westfield"
-      duration: "May 2023 - Aug 2023"
+      duration: "May 2023 - Aug 2023, Jan 2024 - May 2024"
       description:     <pre class="paragraph">    ➤	Conducted sentiment analysis on customer interactions, identifying <br> sentiment distribution and customer segmentation to enhance satisfaction <br>    ➤   Leveraged analytics tools (Tableau and CXOne) to efficiently <br> consolidate data from diverse sources (billing, claims, etc.), detecting <br> possible revenue loss, cost drivers, profitability trends, and <br> operational inefficiencies for strategic planning <br>    ➤   Utilize statistical tools (R and SQL) and analysis techniques <br> (diagnostic, time series, explanatory data analysis, etc.) to track <br> agent performance, detect inefficiencies, and report KPIs for <br> managerial insights, enhancing team responsiveness and optimizing <br> business processes. </pre>
  
     - title: "Statistical Analyst"
@@ -61,10 +66,6 @@ experience:
       duration: "May 2022 - Present"
       description:     <pre class="paragraph">    ➤   Conducted analysis on diverse datasets (Neuronal Phases, Linguistics, <br> Chronic Cough Study, etc.) for over 50 clients’ research papers and <br> theses by processing data and applying complex statistical methods <br> (Fisher’s Exact, ANOVA, etc.). <br>    ➤   Co-authored three research studies on the effectiveness of a <br> “Minimize Risk, Maximize Life” course administered by Envision <br> Partnerships, Ageism among Korean dental hygiene students, and the <br> effect of Postures among students </pre>
    
-    - title: "Data Analyst"
-      company: "Discovery Center for Evaluation, Research, and Professional Learning"
-      duration: "Feb 2022 - Jun 2022"
-      description:     <pre class="paragraph">    ➤   Extracted and handle big data 95,000 from Miami University’s <br> surveys for courses’ evaluations and readjustments. <br>    ➤   Conducted student/faculty analysis based on questionnaires <br> with intensive use of R and Excel, suggesting targeted interventions </pre>
 
 # education
 education:
