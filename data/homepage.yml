@@ -49,7 +49,7 @@ experience:
     - title: "Data Analyst"
       company: "The University of Toledo"
       duration: "Jun 2024 - Present"
-      description:     <pre class="paragraph">    ➤   Developed 50+ Power BI reports to monitor financial transactions & <br> budgets, students’ registrations and performance, etc. <br>    ➤   Automated university’s reporting pipelines and migrated 40+ legacy <br> SAP Crystal Reports using Oracle SQL and Microsoft PowerBI <br> Report Builder, eliminating manual SQL queries and data processing. <br>    ➤   Rebuilt a system of PowerBI reports for Health Science College to automate <br> user-based input filtering, eliminating the need for manual .NET coding.</pre>
+      description:     <pre class="paragraph">    ➤   Developed 50+ Power BI reports to monitor financial transactions & <br> budgets, students’ registrations and performance, etc. <br>    ➤   Automated university’s reporting pipelines and migrated 40+ legacy <br> SAP Crystal Reports using Oracle SQL and Microsoft PowerBI <br> Report Builder, eliminating manual SQL queries and data processing. <br>    ➤   Rebuilt a system of PowerBI reports for Health Science College to <br> automate user-based input filtering, eliminating manual .NET coding requirements. </pre>
     
     - title: "Data Science Intern - Feasibility Informatics"
       company: "Medpace"
