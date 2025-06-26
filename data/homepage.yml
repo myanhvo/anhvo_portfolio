@@ -85,6 +85,18 @@ client_and_work:
   enable: true
 
   works:
+  
+    - title: "EHR-Based Stroke Risk Prediction"
+      description: "Performed data cleaning, feature engineering, and exploratory analysis on hospital EHR data to support stroke risk prediction. Evaluated multiple models using cross-validation and hyperparameter tuning to improve performance, and analyzed key predictors to identify high-risk patient groups and support clinical decision-making."
+      button:
+        icon: "icon-github-line"
+        btnText: "GitHub"
+        URL: "https://github.com/myanhvo/StrokePrediction-NLP-Healthcare"
+      image:
+        x: "img/works/stroke_prj.png"
+        _2x: "img/works/stroke_prj.png"
+      is_even: true
+  
     - title: "Hospital Readmission Prediction"
       description: "Conducted data preprocessing, feature engineering, and evaluated multiple models (logistic, elastic nets, random forests, and neural networks) using cross-validation and hyperparameter tuning to predict hospitals readmission, then assessed the importance of variables to gain insights and develop strategies for reducing readmission rates."
       button:
