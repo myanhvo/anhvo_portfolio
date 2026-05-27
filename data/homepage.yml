@@ -19,7 +19,7 @@ showcase:
   button:
     icon: "icon-profile-fill"
     btnText: "My Resume"
-    URL: "https://drive.google.com/file/d/1ey6stZMGtblVnTA6F4WmoyKqQ9FDQ8Lz/view"
+    URL: ""
 
   socialLinks:
     - icon: "linkedin"
@@ -43,7 +43,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "https://drive.google.com/file/d/1ey6stZMGtblVnTA6F4WmoyKqQ9FDQ8Lz/view"
+    URL: ""
 
   items:
     - title: "Data Analyst"
